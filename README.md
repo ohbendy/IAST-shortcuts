@@ -1,7 +1,9 @@
 # IAST-shortcuts
 Extension to MacOS Press-and-hold keyboard shortcuts for accented letters
 
-This .plist adds the IAST and ISO 15919 characters Ḍ ḍ Ḏ ḏ Ḥ ḥ Ḷ ḷ Ḹ ḹ L̥ l̥ L̥̄ l̥̄ Ḻ ḻ Ṃ ṃ M̊ m̊ M̐ m̐ Ṇ ṇ Ṉ ṉ Ṛ ṛ Ṝ ṝ R̥ r̥ R̥̄ r̥̄ Ṟ ṟ Ṣ ṣ Ṭ ṭ Ṯ ṯ to the press-and-hold keyboard popups on MacOS.
+This .plist adds the following IAST and ISO 15919 characters to the press-and-hold keyboard popups on MacOS:
+
+     Ḍ ḍ Ḏ ḏ Ḥ ḥ Ḷ ḷ Ḹ ḹ L̥ l̥ L̥̄ l̥̄ Ḻ ḻ Ṃ ṃ M̊ m̊ M̐ m̐ Ṇ ṇ Ṉ ṉ Ṛ ṛ Ṝ ṝ R̥ r̥ R̥̄ r̥̄ Ṟ ṟ Ṣ ṣ Ṭ ṭ Ṯ ṯ
 
 Copy the Keyboard-en.plist file into 
 
