@@ -14,4 +14,6 @@ If System Integrity Protection (SIP) prevents writing to this folder, you can di
     Type 'csrutil disable' and press return
     Restart your Mac
     
-Note Ḹ ḹ Ṝ ṝ may not appear correctly in all fonts.
+Don't forget to enable SIP again afterwards by typing 'csrutil enable' in the same way.
+    
+Note Ḹ ḹ Ṃ ṃ Ṝ ṝ may not appear correctly in all fonts.
