@@ -1,4 +1,5 @@
-# IAST-shortcuts
+# Shortcuts for Indic transliteration
+
 Extension to MacOS Press-and-hold keyboard shortcuts for accented letters
 
 This .plist adds IAST and ISO 15919 characters to the press-and-hold keyboard popups on MacOS:
