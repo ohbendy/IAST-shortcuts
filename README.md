@@ -1,13 +1,13 @@
 # IAST-shortcuts
 Extension to MacOS Press-and-hold keyboard shortcuts for accented letters
 
-This .plist adds the following IAST and ISO 15919 characters to the press-and-hold keyboard popups on MacOS:
+This .plist adds IAST and ISO 15919 characters to the press-and-hold keyboard popups on MacOS:
 
-     Ḍ ḍ Ḏ ḏ Ḥ ḥ Ḷ ḷ Ḹ ḹ L̥ l̥ L̥̄ l̥̄ Ḻ ḻ Ṃ ṃ M̊ m̊ M̐ m̐ Ṇ ṇ Ṉ ṉ Ṛ ṛ Ṝ ṝ R̥ r̥ R̥̄ r̥̄ Ṟ ṟ Ṣ ṣ Ṭ ṭ Ṯ ṯ
+     Ǣǣ Ḍḍ Ḏḏ Đđ Ḑḑ Ġġ Ḥḥ H̱ẖ Ḫḫ Ḵḵ Ḷḷ Ḹḹ L̥l̥ L̥̄l̥̄ Ḻḻ Ṃṃ M̊m̊ M̐m̐ M̆m̆ Ṇṇ Ṉṉ N̆n̆ Ṛṛ Ṝṝ R̥r̥ R̥̄r̥̄ Ṟṟ R̆r̆ Ṣṣ Şş Ṭṭ Ṯṯ Ţţ Ŭŭ Ẏẏ Ẓẓ
 
 Copy the Keyboard-en.plist file into 
 
-/System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/Resources/
+    /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/Resources/
 
 If System Integrity Protection (SIP) prevents writing to this folder, you can disable it as follows:
 
@@ -18,4 +18,4 @@ If System Integrity Protection (SIP) prevents writing to this folder, you can di
     
 Don't forget to enable SIP again afterwards by typing 'csrutil enable' in the same way.
     
-Note Ḹ ḹ Ṃ ṃ Ṝ ṝ may not appear correctly in all fonts.
+Note Ḹ ḹ Ṃ ṃ M̐ m̐ Ṝ ṝ may not appear correctly in all fonts.
